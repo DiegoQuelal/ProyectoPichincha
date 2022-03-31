@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9696e2be-0294-4d59-a69b-ba0821b688ae": {
+      "ProjectGuid": "9696e2be-0294-4d59-a69b-ba0821b688ae",
+      "DisplayName": "ProyectoMovimientosCuenta",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
